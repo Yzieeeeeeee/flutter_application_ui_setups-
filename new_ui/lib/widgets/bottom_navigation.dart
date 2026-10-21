@@ -53,7 +53,7 @@ class _FloatingBottomNavState extends State<FloatingBottomNav> {
                     left: selected * itemWidth,
                     top: 5,
                     width: itemWidth,
-                    height: 38,
+                    height: 38, 
                     child: Center(
                       child: Container(
                         width: 36,
